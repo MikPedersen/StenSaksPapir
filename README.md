@@ -1,2 +1,2 @@
 # StenSaksPapir
-##Færdig opgave
+##Opgave uden test
